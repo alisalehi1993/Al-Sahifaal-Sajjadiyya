@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Al-Sahifa al-Sajjadiyya</string>
+    <string name="title_activity_arabic">ArabicActivity</string>
+    <string name="title_activity_supp_context_ar">SuppContextArActivity</string>
+    <string name="title_activity_arabic_fav_supp_context">ArabicFavSuppContext</string>
+    <string name="title_activity_arabic_fav_supp">ArabicFavSuppActivity</string>
+</resources>
